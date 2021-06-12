@@ -1,1 +1,1 @@
-print("kalktı boom yakın zamanda gelecek
+print("kalktı boom yakın zamanda gelecek")
